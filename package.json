@@ -1,0 +1,16 @@
+{
+  "name": "node-caprover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "Cristian Gonzalez <degonzalez996@gmail.com>",
+  "repository": "https://github.com/yarmolem/node-caprover.git",
+  "description": "Node.js app for CapRover",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
